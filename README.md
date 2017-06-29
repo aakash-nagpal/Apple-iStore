@@ -1,0 +1,2 @@
+# Apple-iStore
+Portal for ordering iPhone and placing request if user wants to get iPhone repaired.1) User can select the model and order2) User can enter quantity and bill will be displayed to him.3) User can place request for repairing4) All these information is stored in csv files.One file for username passwordsecond file for storing user activities5) Moreover user can check the status and history in Python
